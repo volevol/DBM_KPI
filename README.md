@@ -295,7 +295,8 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 | Підтримка різних методологій |   |   |   |   |   |   |   |   |   |   |   |   |   | + |   |   | + |   |
 
 ## Джерела
-
+1. https://uk.wikipedia.org/wiki/Управління_проєктами
+2. https://www.wrike.com/project-management-guide/faq/what-is-software-project-management/
 18. https://www.getapp.com/project-management-planning-software/a/trello/
 19. https://www.getapp.com/project-management-planning-software/a/mavenlink-professional-services-automation/features/
 20. https://www.getapp.com/project-management-planning-software/a/avaza/features/
