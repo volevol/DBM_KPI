@@ -498,9 +498,9 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 ![](https://www.plantuml.com/plantuml/img/LOv13e9034NtFKN3dWkm81WyWD7eVXmg6IrJqfOWjtSItB1yF-___Cuyg2yJ0_IINONnjfdJ1AVeedYbCHLK6kv62d3akjtb1djEyMDOFHAjU55vKtIhyBcuIuRTgjjZky5pifd3PiWbHdbXO4Rw5aXvnFa_0z1H7ih77m00)
 
-![](https://i.imgur.com/wzuAr7U.jpg)
-
 **Діаграма New\_Proj**
+
+![](https://i.imgur.com/wzuAr7U.jpg)
 
 **Діаграма CommReq**
 
