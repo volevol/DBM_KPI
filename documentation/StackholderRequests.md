@@ -407,11 +407,11 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADD_ADM**
 
-[https://i.imgur.com/Ey8hc1U.jpg](https://i.imgur.com/Ey8hc1U.jpg)
+![](https://i.imgur.com/Ey8hc1U.jpg)
 
 **Діаграма REM_ADM**
 
-[https://i.imgur.com/veQtJw4.jpg](https://i.imgur.com/veQtJw4.jpg)
+![](https://i.imgur.com/veQtJw4.jpg)
 
 **Діаграма 17**
 
