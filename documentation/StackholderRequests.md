@@ -551,11 +551,11 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADM-DL-PR**
 
-![](https://i.imgur.com/FtHl6vI.jpg)
+![](https://imgur.com/a/FtHl6vI)
 
 **Діаграма AU-SET-METH**
 
-![](https://i.imgur.com/zgFqaOc.jpg)
+![](https://imgur.com/a/zgFqaOc)
 
 **Діаграма Del\_Pro**
 
@@ -571,7 +571,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADD-TSK**
 
-![](https://i.imgur.com/jaBPNwG.jpg)
+![](https://imgur.com/a/jaBPNwG)
 
 
 ## Джерела
