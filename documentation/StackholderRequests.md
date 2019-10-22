@@ -504,7 +504,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма V-INFO**
 
-![](https://i.imgur.com/CI9p72t.jpg)
+![](http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1)
 
 **Діаграма RG-1**
 
@@ -524,7 +524,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма N-PRJ**
 
-![](https://i.imgur.com/wzuAr7U.jpg)
+![](http://www.plantuml.com/plantuml/png/VP11ImCn48Nl-oiUlVi7Uf12FOjOnVCqcNIZsKoPcLJwxzqjIwrIzX88lFUzBzcOateRIXUakah1xcpEGqV1HV7AXspEol7TMBk_LpmypcciyKP7hBRAv8pAtpYgV7Bm5VRDNMet1yVAFyWQEwuHINIO3d1rrbmFE9BImCvga7JBNDBuqEoCNE4z8sKkyPP3DS8dqIUfV4VjYjds7BxiuXD4bOEFi596hNlf-TaJtUXqcO_aX3qPNwKNFk15vPGZ6wXvBmfpycPBZMVndCwWlJI7jH3OKYi8aqYM2adm_dTxmpMseVm0)
 
 **Діаграма COMM-RQ**
 
@@ -560,7 +560,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма DEL-PRJ**
 
-![](https://i.imgur.com/abET3un.jpg)
+![](http://www.plantuml.com/plantuml/png/ZP11JiD034NtESLNzboW2rIWQrIfNC2TUCYWoRXuF8lUdfHOA14WTPdCztlVtbSZjJRbBaWnbOpJjHfF7GKJnLEpKTG_Ncw9T6us_raUyF3eUUpmHXVq1yviZ8lA1mVhCQTDIkUXEUw3Evou353-R5mDKHGn5SeORe0a1H9Xum_f7w7pqHzP9ofSB5yN1FShwQhvFFSgbc8AzAsXipJRMDteunkZRqTB5veN22koflVHAfGp6GymWOsfti7p1ABAX0CPFLFbNpVxktbj8N2jiMrFTtJfdilGflm5)
 
 **Діаграма ADD-ADM**
 
