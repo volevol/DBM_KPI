@@ -69,7 +69,7 @@
 Ітерації та етапи розвитку:
 
 
-![](https://i.imgur.com/P64nFSD.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Development-iterative.png)
 
 Ролі у RUP:
 - конструктор - розробляє компоненти і класи, виконує блочне тестування;
@@ -297,7 +297,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма юзкейсів**
 
-![](https://i.imgur.com/d529odd.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Development-iterative.png)
 
 **Сценарій перегляду загальної інформації**
 
@@ -556,7 +556,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADD-TSK**
 
-![](https://i.imgur.com/Jm9Sq4S.jpg)
+![](http://www.plantuml.com/plantuml/png/ROqn3i8m34NtdCBgpWKOK2l4oW8NS9CK8XAxIdvKSNkW0OcXaotzzz_l2pYZfcYi2h96kZmBV39iePc6Yhjcqmxj3j-KzdJbcRh1EGANHqTZ1LHCYpzWgxp1O_QCeBA2j0Hnkcm9JmAVYMEaa6RDO04v1lyvs_TpUXA_hDQjsRCYJC6sQHwrWagrrfSorKZiN91RA_TUN4tn1G00)
 
 **Діаграма DEL-PRJ**
 
@@ -572,7 +572,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADM-DL-PR**
 
-![](https://i.imgur.com/Z44pNHA.jpg)
+![](http://www.plantuml.com/plantuml/png/dP0nReKm38RtdC9wUo_0K87etAMzG4WSaJQ9KU8ClNq3XD21IazCsEB_FiVk4yl8sJkXA70a1ny_YT4BgPWY3DhRSDIPPugr6TUqdNAfnHQ2bzUAGWUVSe776pfaX5G-Yb734kchL0ye55CGDLsuNT31aBx15BbUIKi150LZevThSp5ct7-t_8NodTWQgpO3o8aodtOom3CUxphXkkbTkftclg9j-CyDdriqPQKm9PFTtv7DqMFGsRjV)
 
 
 ## Джерела
