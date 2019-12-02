@@ -664,6 +664,8 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 ![](http://www.plantuml.com/plantuml/png/ZP0nImGn48Nx_8fXIy5bOtdLYTVOYCY1zR0x1t6pcJ2PW2B-TnFPe0IBQvB7utl3p3icHT6yUPDM5o8ARX1ueKGHx3JzSGN3MjsxufhPOqfmB-ekEEkd0NZ2ZShtU2hF-IDM_S11AQZvQlmPqzgp9yB5kq0_CitYeZeElvbNbfMaJxsmfyhKYJ1CutWpmAsdYy9Wnz4EU-m0c9Nb2exUQVu7RQ9TUe1IHzP6sKRPZkAi1MitF0k_KLzJltsERQSTDqSAIzxyDm00)
 
+![](https://www.plantuml.com/plantuml/img/XP8nRyCW48LtViN9eoMiPCsKgbwoL55LoJEoIKFZW8KFjVdt1ViWO5Lg5iExxzuzdtESKLXqzv4ngL7X0yxMVCaUu_LDt6Kydrh6mXsuctYTo5Ex4PBNXvXlkH686RH_vdehvzwg2PNHppa1L4E9YM5KMdhpjG1yCD_QJrsep6LRMFjADOOerJZhnQAwY787CRglRMDcqglHw8_f_H-J3qnjjAHalZHknT01kK2Em4TvmRoGqdR6tgJzAsktJPg4TpDIi8uIa8jdqYYI0bj2Z3uqLFkcsLVSgiyhylLNxPgchjPzhdYal4DMX0F87zaxDFOVJZYyUcYv1AIkbZdBAQq33iRXv92m7M5azAIK3X1ZHwa7_w__1G00)
+
 ## Джерела
 
 1. https://uk.wikipedia.org/wiki/Управління_проєктами
