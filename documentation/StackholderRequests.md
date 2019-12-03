@@ -551,7 +551,6 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 ![](https://www.plantuml.com/plantuml/img/NP6nRiCm34HtVmMRFJ_GeGXGe6DRDCZMXPRfMWWb6YGz-EzBD_QW3W84tSFnZhgOe_fIkCFaed0pKa23nRHBKbs5uRgQKzbURRKk53Y_R5TuXaybCpXzqKyEHa_GB-vIkqqDQ6CtI6On0lsZ53rBXL6qj5vlcHamJizOxp1cuk7Vk5UfOzOI6ZCD1x8Fsv69qlq01dHiirof3f0UDeyWT2wOkQNUnVEuWa_eW2tEv54KfjX6JrJ1gFftTJcefcNh-Z7JNZv9cSCe4jgIKgnmN9ZNf-uIwU8lVW40)
 
-=======
 **Діаграма RG-2**
 
 ![](https://www.plantuml.com/plantuml/img/FOyx3WCX30LxJk4SO2-G8jekIfKYoW4Gl5LG3AniKt3xG7xjcv56RrNpOYspyy6gq5qXv9MQYWkrc5IcMrT3dgjsTOFGSfe27UaCKyAIVU8V6Cu45KfMoHuWJkNfvlodbuXYQUjltBx9aTkIPCIV-qbSTuYtLCiGyiumHD8M0bItnjmFRaM9uy4B)
@@ -559,7 +558,6 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 **Діаграма LG**
 
 ![](https://www.plantuml.com/plantuml/img/NP0n3i8m34NtdC8SW0im82Ga9YGGY0C4noqMRbB5pj3RavGkxMRv_V_rxPEQprO6SHujPNXGpsgKARoKCdY5ejbXYfQJm7EgR6XRdTHL0ljZ6-40zqog8Add2EzYbg9heF8cQpmDeos2Zad29k328cky-F_u_27yrgnQYkDOR9r-dNqpBJ6qug0Z8NUCu15JYHl3RQJiZLC4hBs4Z09eGQn7T4LashaJnL3_udy0)
-<<<<<<< HEAD
 
 **Діаграма ProjView**
 =======
