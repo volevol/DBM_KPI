@@ -548,12 +548,12 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 ![](http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1)
 
 <<<<<<< HEAD
-![](https://i.imgur.com/xp3oi3G.jpg)
+![](https://www.plantuml.com/plantuml/img/RP2_JiD03CRtFCMdxhn01rI9CZ0n1DYTYwCS9ETY-wZozZX0GHNPJZx_lZy-c9DwdQU6aelYsLX1XchQ92ckCg5Tp7bUfxPO4p-ukLsVsEE9JjYzP3uZbq5q9izIG9rKnqdbbPFR3brrbzAiI92hm1xjA5iGVL2Ug9lu5zymR9aqZTkwZyCG3Unh0yuwN_Ft9MReoUd7i71YCzBbOdYH-zw_6pcz6I8c8cSQsI8qZi5tP7nj_V2lZV9xpShzNva3bpwk_Ga0)
 =======
 **Діаграма RG-1**
 >>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
-![](https://i.imgur.com/xp3oi3G.jpg)
+![](https://www.plantuml.com/plantuml/img/NP6nRiCm34HtVmMRFJ_GeGXGe6DRDCZMXPRfMWWb6YGz-EzBD_QW3W84tSFnZhgOe_fIkCFaed0pKa23nRHBKbs5uRgQKzbURRKk53Y_R5TuXaybCpXzqKyEHa_GB-vIkqqDQ6CtI6On0lsZ53rBXL6qj5vlcHamJizOxp1cuk7Vk5UfOzOI6ZCD1x8Fsv69qlq01dHiirof3f0UDeyWT2wOkQNUnVEuWa_eW2tEv54KfjX6JrJ1gFftTJcefcNh-Z7JNZv9cSCe4jgIKgnmN9ZNf-uIwU8lVW40)
 
 <<<<<<< HEAD
 ![](https://i.imgur.com/8in4TJj.jpg)
@@ -561,11 +561,11 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 **Діаграма RG-2**
 >>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
-![](https://i.imgur.com/8in4TJj.jpg)
+![](https://www.plantuml.com/plantuml/img/FOyx3WCX30LxJk4SO2-G8jekIfKYoW4Gl5LG3AniKt3xG7xjcv56RrNpOYspyy6gq5qXv9MQYWkrc5IcMrT3dgjsTOFGSfe27UaCKyAIVU8V6Cu45KfMoHuWJkNfvlodbuXYQUjltBx9aTkIPCIV-qbSTuYtLCiGyiumHD8M0bItnjmFRaM9uy4B)
  
 **Діаграма LG**
 
-![](https://i.imgur.com/VDXEjKA.jpg)
+![](https://www.plantuml.com/plantuml/img/NP0n3i8m34NtdC8SW0im82Ga9YGGY0C4noqMRbB5pj3RavGkxMRv_V_rxPEQprO6SHujPNXGpsgKARoKCdY5ejbXYfQJm7EgR6XRdTHL0ljZ6-40zqog8Add2EzYbg9heF8cQpmDeos2Zad29k328cky-F_u_27yrgnQYkDOR9r-dNqpBJ6qug0Z8NUCu15JYHl3RQJiZLC4hBs4Z09eGQn7T4LashaJnL3_udy0)
 <<<<<<< HEAD
 
 **Діаграма ProjView**
@@ -574,23 +574,23 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 **Діаграма PRJ-V**
 >>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
-![](https://www.plantuml.com/plantuml/img/LOv13e9034NtFKN3dWkm81WyWD7eVXmg6IrJqfOWjtSItB1yF-___Cuyg2yJ0_IINONnjfdJ1AVeedYbCHLK6kv62d3akjtb1djEyMDOFHAjU55vKtIhyBcuIuRTgjjZky5pifd3PiWbHdbXO4Rw5aXvnFa_0z1H7ih77m00)
+![](https://www.plantuml.com/plantuml/img/BKvB2i8m4Dtd58_klK0NKj03YABxD1rBT9gKcIdQspi1T-_BUuDQ5DiM3Z5P5LnfpceaDDsL156ngOHKYqbbt7RtbgRghi4T78uDeiU9StehkaUc3ovINvHCEuoRMIsXPJpQ6ZtEMLUEhh1FeJuHcK5V9xdCMF_TC52P_5Zy0G00)
 
 **Діаграма N-PRJ**
 
-![](http://www.plantuml.com/plantuml/png/VP11ImCn48Nl-oiUlVi7Uf12FOjOnVCqcNIZsKoPcLJwxzqjIwrIzX88lFUzBzcOateRIXUakah1xcpEGqV1HV7AXspEol7TMBk_LpmypcciyKP7hBRAv8pAtpYgV7Bm5VRDNMet1yVAFyWQEwuHINIO3d1rrbmFE9BImCvga7JBNDBuqEoCNE4z8sKkyPP3DS8dqIUfV4VjYjds7BxiuXD4bOEFi596hNlf-TaJtUXqcO_aX3qPNwKNFk15vPGZ6wXvBmfpycPBZMVndCwWlJI7jH3OKYi8aqYM2adm_dTxmpMseVm0)
+![](https://www.plantuml.com/plantuml/img/NL7DJiCm3BxtAQpTUO4TqAHnHeY1TdPJPmsaSMKxGtrxd29GooLAxC_VZtDIGx4wvGw3iS0htP8Q2GtlIWAeK5MwmCM4CrmMxqsjgejste67ntOzmXlES3WBeH4K-e9P-8E27Q2lPbmw1pMiZnpXGcM0o3Ar0wYuN2etc55m8dyeSDoIx8IkabmY5R2H82RAmtOGdTcQbISkz5zydJ-F53vrLGuiulJEahCRsCD-eZG-nVigEA0XzAZqvsiRwaNudWPo2zL69_UzMjKTv9ajnGMmvsgWDGJIM3E49fMujDGjr2_xoTVa7uFV)
 
 **Діаграма COMM-RQ**
 
-![](https://www.plantuml.com/plantuml/img/LOun3i8m34LtdyBgtWjqg5hb1bHiB26n82A9XUq8SNk2miBuvVUijwbviLOoWEDgmXcFjneLs8EnuDxipl8R9xgbVXEAPoK1-D_pEim5NKxXeJWvBYLPrvwDr2QyDZEkCB1v7RyNFAX6HOyoE3I-L1yZLdfX-4QbBlO8s3hOKpy0)
+![](https://www.plantuml.com/plantuml/img/BOv13eCm30JlUSMAUp_0eQBY1qLzG4gi4fN4gkseulSOsfEjtR5t1xKerieQucmik3LRV4H5jEMltUcLrKWeFPHEhwc4cQi9hvWszygXwgR17LoknzfZNFFyLdGZbvBDttmQgNLuDZEkmPa3zPmU4zNaaP0V0sF4b53fYpCd-mrB61pphd47)
 
 **Діаграма ADD-ARTF**
 
-![](http://www.plantuml.com/plantuml/png/TOz1JiGm34NtESLNzro01Hg4n1ffJf1972R8YQlO0VNsfDDAT45tblF-S_v5pJVhXLsGQaqOrqMDYlF1fE5jNUPR7xCxp7XwsRbdV3HI9SNq6YE6AwSHrGa3DAbkmqRWw5fJyftZFx4ahPoTUi_CYbnXTqBrXU1hX2qpGTAw_1CzNlhCugCYPIRTVtBqZTEwGnGt2YOFqTpaYu8XUlCthtJMutgNdwq47Mf0UmYacZhpCg6CqN-Ikr2DlV0l)
+![](https://www.plantuml.com/plantuml/img/RP2nJWGn34JxVCLeUtw00Xr2eaQwbiQNE5nG4gzYvz3-FSckG9n4DvePFpivgL6pNh8ZRzBm8jLQklIfIT6rEJyjoJXlQbocgvkwaU3XQSf7l3LMPSNo7086BiK1qmK3OrBTwCpgc9XLkQNmJpTAAtVGrvIp8bNObL6fCAW6sBOo9Excx_IUz3Kd2egOCklFpfqqDkcCXGA78uS9tW_qskIJlI6GqOMKxyuzN-Nhk9N_N0ljteydnvxpjg0CIH_iJbp3-4dw1W00)
 
 **Діаграма ED-ARTF**
 
-![](http://www.plantuml.com/plantuml/png/TOv1Ii0m44NtESNGlHTm8GLnB_O4qsHY8qccP2PAR-yK2mQncp24z_x_ioWsxIKxprKRPrWEKIeElNA3v_CphTrkDzpmy7HnZ_3QI8G4ffUG52miHNDb0YELg_lXp1Z3Jeq_K_ZFYzpANTd92lYDXUgl0rW3xEEEF-rZn1lj6Rs1CMLxKmNTo6p-8AyGK755eRlPoyPVLmU5OO5qRvaIUyx71CLEV2StKmszv6y0)
+![](https://www.plantuml.com/plantuml/img/RP312W8n34Jl_OgmTt_0WmZYNTohbzXctKgtaIPLzkzDHT0LRqFoPYPaAuf5wvGSUkK2EyvQuhasZG9LYlDjn0dwMPIcDfLPd6rWjMbo3OT28YJGxKDKiBmuM9fqO3dAsHdKMBCqbkyn_8C7BjCYzWNuaONoXmFC0MxVXRyrB--HRWaz1HXYCZ3cKmOToPny9QyGKF6CGelR-f4Vxr1pVYgbUc-5Gqrfxc0oYHToMyh17eTF)
 
 **Діаграма DWN-ARTF**
 
