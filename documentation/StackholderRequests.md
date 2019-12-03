@@ -545,21 +545,14 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма V-INFO**
 
-![](http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1http://www.plantuml.com/plantuml/png/TOynKiD034Lxd-9FUYwGWiaCK51H6EZbjJnUs9M2f8N9xO6CmOMJHetqtjS_U915gwLBAc5Qq9yyk7QKGWqlpjRz3jpSBXliyKn7x5upVo7Bf5OfiWfeq1Ouchvn2jzXQ14gtKBzy6VF7lsibq3wf5neAFolk1BSCrcQh_kVfeaDVhv2iDMjvq623IC5BU72YTt9Jd_XgtQbxcPExuv93PKYpUp8WdiA6iXv-yZZfgFnHyl6urhnm3AsMhu1)
-
-<<<<<<< HEAD
 ![](https://www.plantuml.com/plantuml/img/RP2_JiD03CRtFCMdxhn01rI9CZ0n1DYTYwCS9ETY-wZozZX0GHNPJZx_lZy-c9DwdQU6aelYsLX1XchQ92ckCg5Tp7bUfxPO4p-ukLsVsEE9JjYzP3uZbq5q9izIG9rKnqdbbPFR3brrbzAiI92hm1xjA5iGVL2Ug9lu5zymR9aqZTkwZyCG3Unh0yuwN_Ft9MReoUd7i71YCzBbOdYH-zw_6pcz6I8c8cSQsI8qZi5tP7nj_V2lZV9xpShzNva3bpwk_Ga0)
 =======
 **Діаграма RG-1**
->>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
 ![](https://www.plantuml.com/plantuml/img/NP6nRiCm34HtVmMRFJ_GeGXGe6DRDCZMXPRfMWWb6YGz-EzBD_QW3W84tSFnZhgOe_fIkCFaed0pKa23nRHBKbs5uRgQKzbURRKk53Y_R5TuXaybCpXzqKyEHa_GB-vIkqqDQ6CtI6On0lsZ53rBXL6qj5vlcHamJizOxp1cuk7Vk5UfOzOI6ZCD1x8Fsv69qlq01dHiirof3f0UDeyWT2wOkQNUnVEuWa_eW2tEv54KfjX6JrJ1gFftTJcefcNh-Z7JNZv9cSCe4jgIKgnmN9ZNf-uIwU8lVW40)
 
-<<<<<<< HEAD
-![](https://i.imgur.com/8in4TJj.jpg)
 =======
 **Діаграма RG-2**
->>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
 ![](https://www.plantuml.com/plantuml/img/FOyx3WCX30LxJk4SO2-G8jekIfKYoW4Gl5LG3AniKt3xG7xjcv56RrNpOYspyy6gq5qXv9MQYWkrc5IcMrT3dgjsTOFGSfe27UaCKyAIVU8V6Cu45KfMoHuWJkNfvlodbuXYQUjltBx9aTkIPCIV-qbSTuYtLCiGyiumHD8M0bItnjmFRaM9uy4B)
  
@@ -572,7 +565,6 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 =======
  
 **Діаграма PRJ-V**
->>>>>>> 96698366739370a0b5900d9fec8dbc2a2f69a49b
 
 ![](https://www.plantuml.com/plantuml/img/BKvB2i8m4Dtd58_klK0NKj03YABxD1rBT9gKcIdQspi1T-_BUuDQ5DiM3Z5P5LnfpceaDDsL156ngOHKYqbbt7RtbgRghi4T78uDeiU9StehkaUc3ovINvHCEuoRMIsXPJpQ6ZtEMLUEhh1FeJuHcK5V9xdCMF_TC52P_5Zy0G00)
 
