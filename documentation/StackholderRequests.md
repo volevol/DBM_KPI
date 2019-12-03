@@ -338,7 +338,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма юзкейсів**
 
-![](https://i.imgur.com/d529odd.jpg)
+![](https://www.plantuml.com/plantuml/img/VLB1JiCm3BtdAto37dRZFAqQt3YW8JWXeQnnkq2RH8xBD8cFnqbQTKM2Ozvxjf-ViukiYSUXLpss3Eo1R7TYC9QmOUkTUeb8e2ECaTG1EniP2Stx35F2zzunsUF8FcCDqr7LPh0klRGPL3togN1wP9LwmMOBjtE_QeB6aD1NYsVG8O1rhHUACfVyRRwtsGTCM58_-iwwQWNj2JKZF97_a2NMN1r2Vu5Mp3IpQTbohSa6GgcEGgLziZaPJsL-WPBumLW6oT2skgYlk7j_ThtNvY--DcjAmX52fkG4eRn5zumC0qg4nlU-krGpDVTW7J_ZWkRHsADa49OCCbSIJZNDShDVx5Iw4joi57V9gncArtpHwJdrphT_StBkSlZgMd30mN_X_vfiGUu2lXM9konxg1qw8__r1m00)
 
 **Сценарій перегляду загальної інформації**
 
