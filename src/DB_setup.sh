@@ -39,9 +39,9 @@ INSERT INTO task(id, name, description, deadline, project_id) VALUES(4,'Захи
 INSERT INTO task(id, name, description, deadline, project_id) VALUES(5,'Концерт і змагання','Провести змагання та концерт','2020-12-18', 2);
 INSERT INTO task(id, name, description, deadline, project_id) VALUES(6,'Благодійність та виступи','Провести збір благодійних внесків під час виступів','2020-12-19', 2);
 
-INSERT INTO task(id, name, description, deadline, project_id) VALUES(7,'Місце проведення','Вибрати ділянки для проведення досліджень','15-10-2021', 3);
-INSERT INTO task(id, name, description, deadline, project_id) VALUES(8,'Проведення вимірів','Виміряти значення забрудненості повітря','18-10-2021', 3);
-INSERT INTO task(id, name, description, deadline, project_id) VALUES(9,'Висновки','Визначити основні джерела забруднення та методи їх запобігання','25-10-2021', 3);
+INSERT INTO task(id, name, description, deadline, project_id) VALUES(7,'Місце проведення','Вибрати ділянки для проведення досліджень','2021-10-15', 3);
+INSERT INTO task(id, name, description, deadline, project_id) VALUES(8,'Проведення вимірів','Виміряти значення забрудненості повітря','2021-10-18', 3);
+INSERT INTO task(id, name, description, deadline, project_id) VALUES(9,'Висновки','Визначити основні джерела забруднення та методи їх запобігання','2021-10-25', 3);
 
 create table artfrole (
 	name VARCHAR(100) NOT NULL PRIMARY KEY,
