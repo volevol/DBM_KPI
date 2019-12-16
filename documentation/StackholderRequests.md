@@ -664,11 +664,11 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 ## ER-діаграми
 
-![](http://www.plantuml.com/plantuml/png/ZP0nImGn48Nx_8fXIy5bOtdLYTVOYCY1zR0x1t6pcJ2PW2B-TnFPe0IBQvB7utl3p3icHT6yUPDM5o8ARX1ueKGHx3JzSGN3MjsxufhPOqfmB-ekEEkd0NZ2ZShtU2hF-IDM_S11AQZvQlmPqzgp9yB5kq0_CitYeZeElvbNbfMaJxsmfyhKYJ1CutWpmAsdYy9Wnz4EU-m0c9Nb2exUQVu7RQ9TUe1IHzP6sKRPZkAi1MitF0k_KLzJltsERQSTDqSAIzxyDm00)
+![](https://www.plantuml.com/plantuml/img/XPBFQW8n4CRlUOeXHt6Xle7IlNYH8aBF8JjhfsOJISQ2ID-zIVQlMzJBPZBp-xua7xiEh3nV6YCCrWpimDFnYw4YZvh9MO6MYQ_muTrtxC1D02nWMyQbA7AzKmtceiIWFPspwhVN7LGuPL4aighJJPHpRTzHbI6BezKc1AT99UOcxjfqj4tSfMCcVSzKg-TNFbpFRV7kB4VTdRhUEuETUb1ijCOGmE0Fcf7-TFw4_j590oQJevmvbXSc3BdSf-n3v4KNjrmjLp9w5I3VbWkPmXJfC_IxmPZ1et6Vd1ZHF6hDCz_URWB0d6YVAIPs_v0-zLTG3bUiqLRfv_i3)
 
 
 
-![](https://www.plantuml.com/plantuml/img/XP8nRyCW48LtViN9eoMiPCsKgbwoL55LoJEoIKFZW8KFjVdt1ViWO5Lg5iExxzuzdtESKLXqzv4ngL7X0yxMVCaUu_LDt6Kydrh6mXsuctYTo5Ex4PBNXvXlkH686RH_vdehvzwg2PNHppa1L4E9YM5KMdhpjG1yCD_QJrsep6LRMFjADOOerJZhnQAwY787CRglRMDcqglHw8_f_H-J3qnjjAHalZHknT01kK2Em4TvmRoGqdR6tgJzAsktJPg4TpDIi8uIa8jdqYYI0bj2Z3uqLFkcsLVSgiyhylLNxPgchjPzhdYal4DMX0F87zaxDFOVJZYyUcYv1AIkbZdBAQq33iRXv92m7M5azAIK3X1ZHwa7_w__1G00)
+![](https://www.plantuml.com/plantuml/img/XLHDRyCW3BtpAr2ELP56F-wjrikaQPggIZj7WNQiAKH0ElNVppY4a2rTSyBFndxFF6NZV6bzUwb9BO-UUaEjEdrwAfILbLT64oArL_v6twtv0eXG-2BqigEbeqhas5jvaG7LERYJhhAg2Vr2Ja18b60uYitwpfeDvr320gK1IamEfJjFqU2JFFW38h_ofQYLnfj204VUamn3Go4bcaTY7OHKEHFcMm-GO6tJHOdrrZbJgRBRQGQgaxv0b67MgsCvlUd5fCGHUhWrYFfcfEpPQ0_7aAay1sMBNbcQfnTHM4AW1mf905mT0ndfuzxKSfBVCaUBRLL9v-YhlCgw2FdwMXEznARO8omPi7vGn8O5VHXxbdPgFSl9yIjGkyHktStmXgii7ZhVLR0UcQJrIZgqI3jwfNrOA2OiR7ED8w8Wy4JhCu3OB082qUIqu7DUKCOOBPxciwBpEhegPVfKvfsx1SbnGt5COXdUGD7_vEEIicv_If8T7XHr5jb8BU2FymC0)
 
 ## Джерела
 
