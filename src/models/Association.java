@@ -8,6 +8,7 @@ public class Association {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @ManyToOne(fetch = FetchType.LAZY)
@@ -56,7 +57,7 @@ public class Association {
     public String toString(){
         return "Association:\nArtifact " + artifact +
                 "\nas " + artfRole +
-                "\nfor the " + task;
+                "\nfor the " + task+"\n\n";
     }
 
     @Override
