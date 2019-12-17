@@ -92,10 +92,6 @@ public class UserDao {
         return HibernateSessionFactoryUtil.getSessionFactory().openSession().get(Association.class, id);
     }
 
-    public List<ArtfRole> findAllArtfroles() {
-        List<ArtfRole> artfroles = (List<ArtfRole>) HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM ArtfRole").list();
-        return artfroles;
-    }
 
     public List<Association> findAssociationByTask(Task t) {
         List<Association>  associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Association A WHERE A.task = "+ t).list();
@@ -107,7 +103,7 @@ public class UserDao {
         return  associations;
     }
 
-    public List<Association> findAssociationByArtfrole(Artfrole ar) {
+    public List<Association> findAssociationByArtfrole(ArtfRole ar) {
         List<Association> associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM ArtfRole A WHERE A.artfRole = "+ ar).list();
         return  associations;
     }
