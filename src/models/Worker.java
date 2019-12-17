@@ -6,24 +6,25 @@ import java.util.ArrayList;
 
 @Entity
 @Table(name = "worker")
-
 public class Worker {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @Column(name = "name")
     private String name;
 
     @OneToMany(mappedBy = "worker", cascade = CascadeType.ALL)
-    private List<Assigment> assigments;
+    private List<Assignment> assignments;
 
     public Worker(){
     }
 
     public Worker(String n) {
         this.name = n;
+        assignments = new ArrayList<Assignment>();
     }
 
     public void addAssignment(Assignment ag) {
@@ -31,7 +32,7 @@ public class Worker {
         assignments.add(ag);
     }
 
-    public void removeAssingment(Assignment ag) {
+    public void removeAssignment(Assignment ag) {
         assignments.remove(ag);
     }
 
@@ -48,14 +49,17 @@ public class Worker {
         this.name = n;
     }
 
-    public List<Assigment> getAssigments() {
-        return assigments;
+    public List<Assignment> getAssignments() {
+        return assignments;
     }
 
+    public void setAssignments(List<Assignment> ag) {
+        this.assignments = ag;
+    }
+    
     @Override
     public String toString() {
-        return "Worker \"" + name + "\":\n" +
-                "id = " + id;
+        return "Worker \"" + name + "\" with id - " + id+"\n\n";
     }
 
     @Override
