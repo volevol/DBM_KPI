@@ -10,6 +10,7 @@ public class Project {
 
     @Id
     @GeneratedValue (strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @Column (name = "name")
@@ -63,7 +64,7 @@ public class Project {
         return tasks;
     }
 
-    public void setAutos(List<Task> ts) {
+    public void setTasks(List<Task> ts) {
         this.tasks = ts;
     }
 
@@ -71,7 +72,7 @@ public class Project {
     public String toString() {
         return "Project \"" + name + "\":\n" +
                 "id = " + id +
-                "\ndescription = " + description;
+                "\ndescription = " + description+"\n\n";
     }
 
     @Override
