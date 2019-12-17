@@ -10,6 +10,7 @@ public class Artifact {
 
     @Id
     @GeneratedValue (strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @Column (name = "name")
@@ -22,7 +23,7 @@ public class Artifact {
     private String content;
 
     @OneToMany(mappedBy = "artifact", cascade = CascadeType.ALL)
-    private List<Asociation> asociations;
+    private List<Association> associations;
 
     public Artifact() {
     }
@@ -31,20 +32,20 @@ public class Artifact {
         this.name = name;
         this.type = type;
         this.content = content;
-        asociations = new ArrayList<Asociation>();
+        associations = new ArrayList<Association>();
     }
 
-    public void addAsociation(Asociation a) {
-        a.setProject(this);
-        asociations.add(a);
+    public void addAssociation(Association a) {
+        a.setArtifact(this);
+        associations.add(a);
     }
 
-    public void removeAsociation(Asociation a) {
-        asociations.remove(a);
+    public void removeAssociation(Association a) {
+        associations.remove(a);
     }
 
-    public List<Asociation> getAsociation() {
-        return asociations;
+    public List<Association> getAssociations() {
+        return associations;
     }
 
     public int getId() {
@@ -63,7 +64,7 @@ public class Artifact {
         return type;
     }
 
-    public void getType(String type) {
+    public void setType(String type) {
         this.type = type;
     }
 
@@ -75,8 +76,8 @@ public class Artifact {
         this.content = content;
     }
 
-    public void setAutos(List<Asociation> as) {
-        this.asociations = as;
+    public void setAssociations(List<Association> as) {
+        this.associations = as;
     }
 
     @Override
@@ -84,7 +85,7 @@ public class Artifact {
         return "Artifact \"" + name + "\":\n" +
                 "id = " + id +
                 "\ntype = " + type +
-                "\ncontent = " + content;
+                "\ncontent = " + content +"\n\n";
     }
 
     @Override
