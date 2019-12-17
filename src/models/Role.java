@@ -9,6 +9,11 @@ import java.util.ArrayList;
 public class Role {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
+    private int id;
+
+    @Column(name = "name")
     private String name;
 
     @Column(name = "duties")
@@ -18,7 +23,7 @@ public class Role {
     private String rights;
 
     @OneToMany(mappedBy = "role", cascade = CascadeType.ALL)
-    private List<Assigment> assigments;
+    private List<Assignment> assignments;
 
     public Role(){
     }
@@ -27,6 +32,7 @@ public class Role {
         this.name = n;
         this.duties = d;
         this.rights = r;
+        assignments = new ArrayList<Assignment>();
     }
 
     public void addAssignment(Assignment ag) {
@@ -34,10 +40,14 @@ public class Role {
         assignments.add(ag);
     }
 
-    public void removeAssingment(Assignment ag) {
+    public void removeAssignment(Assignment ag) {
         assignments.remove(ag);
     }
 
+    public int getId() {
+        return id;
+    }
+    
     public String getName() {
         return name;
     }
@@ -60,15 +70,19 @@ public class Role {
 
     public void setRights(String r) { this.rights = r; }
 
-    public List<Assigment> getAssigments() {
-        return assigments;
+    public List<Assignment> getAssignments() {
+        return assignments;
+    }
+    
+    public void setAssignments(List<Assignment> ag) {
+        this.assignments = ag;
     }
 
     @Override
     public String toString() {
         return "Role \"" + name + "\":\n" +
                 "rights = " + rights +
-                "\nduties = " + duties;
+                "\nduties = " + duties+"\n\n";
     }
 
     @Override
