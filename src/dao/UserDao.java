@@ -46,7 +46,7 @@ public class UserDao {
     }
 
     public List<Task> findTasksByProject(Project p) {
-        List<Task> tasks = (List<Task>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Task T WHERE T.project = "+ p).list();
+        List<Task> tasks = (List<Task>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Task T WHERE T.project = "+ p.getId()).list();
         return tasks;
     }
 
@@ -94,17 +94,17 @@ public class UserDao {
 
 
     public List<Association> findAssociationByTask(Task t) {
-        List<Association>  associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Association A WHERE A.task = "+ t).list();
+        List<Association>  associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Association A WHERE A.task = "+ t.getId()).list();
         return associations;
     }
 
     public List<Association> findAssociationByArtifact(Artifact a) {
-        List<Association> associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Association A WHERE A.artifact = "+ a).list();
+        List<Association> associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Association A WHERE A.artifact = "+ a.getId()).list();
         return  associations;
     }
 
     public List<Association> findAssociationByArtfrole(ArtfRole ar) {
-        List<Association> associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM ArtfRole A WHERE A.artfRole = "+ ar).list();
+        List<Association> associations = (List<Association>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM ArtfRole A WHERE A.artfRole = "+ ar.getId()).list();
         return  associations;
     }
 
@@ -114,17 +114,17 @@ public class UserDao {
 
 
     public List<Assignment> findAssignmentByTask(Task t) {
-        List<Assignment>  assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.task = "+ t).list();
+        List<Assignment>  assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.task = "+ t.getId()).list();
         return assignments ;
     }
 
     public List<Assignment> findAssignmentByWorker(Worker w) {
-        List<Assignment> assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.worker = "+ w).list();
+        List<Assignment> assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.worker = "+ w.getId()).list();
         return  assignments;
     }
 
     public List<Assignment> findAssignmentByRole(Role r) {
-        List<Assignment> assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.role = "+ r).list();
+        List<Assignment> assignments = (List<Assignment>)  HibernateSessionFactoryUtil.getSessionFactory().openSession().createQuery("FROM Assignment A WHERE A.role = "+ r.getId()).list();
         return  assignments;
     }
 
