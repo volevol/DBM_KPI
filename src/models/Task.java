@@ -10,6 +10,7 @@ public class Task {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @Column(name = "name")
@@ -96,12 +97,28 @@ public class Task {
         this.project = p;
     }
 
+    public List<Assignment> getAssignments() {
+        return assignments;
+    }
+
+    public void setAssignments(List<Assignment> ag) {
+        this.assignments = ag;
+    }
+
+    public List<Association> getAssociations() {
+        return associations;
+    }
+
+    public void setAssociations(List<Association> ac) {
+        this.associations = ac;
+    }
+    
     @Override
     public String toString() {
         return "Task \"" + name + "\":\n" +
                 "id = " + id +
                 "\ndescription = " + description +
-                "\nDeadline: " + deadline;
+                "\nDeadline: " + deadline+"\n\n";
     }
 
     @Override
