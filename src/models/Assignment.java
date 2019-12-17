@@ -8,6 +8,7 @@ public class Assignment {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private int id;
 
     @ManyToOne(fetch = FetchType.LAZY)
@@ -56,7 +57,7 @@ public class Assignment {
     public String toString(){
         return "Assignment:\nWorker " + worker +
                 "\nas " + role +
-                "\non the " + task;
+                "\non the " + task+"\n\n";
     }
 
     @Override
